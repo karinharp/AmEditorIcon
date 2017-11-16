@@ -1,0 +1,14 @@
+# MonoDevelop Work Dir
+
+/obj/
+/bin/
+
+# Build, Test Output Files
+
+Makefile.dep
+*.xml
+*.exe
+*.exe.mdb
+*.dll
+*.dll.mdb
+*.userprefs
